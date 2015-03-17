@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 130 120" enable-background="new 0 0 130 120" xml:space="preserve">
+<g id="Infos">
+	<rect id="BG" x="-1100" y="-740" fill="#D8D8D8" width="2180" height="1700"/>
+</g>
+<g id="Others">
+</g>
+<g id="Europe">
+	<g id="Row_5">
+	</g>
+	<g id="Row_4">
+	</g>
+	<g id="Row_3">
+	</g>
+	<g id="Row_2">
+		<g>
+			<rect y="80" fill="#4393F5" width="130" height="13.3"/>
+			<rect y="106.7" fill="#4393F5" width="130" height="13.3"/>
+			<rect y="93.3" fill="#FFFFFF" width="130" height="13.3"/>
+			<polygon fill="#4393F5" points="0,0 0,66.7 70,66.7 130,66.7 130,53.3 70,53.3 70,40 130,40 130,26.7 70,26.7 70,13.3 130,13.3 
+				130,0 			"/>
+			<g>
+				<rect x="70" y="13.3" fill="#FFFFFF" width="60" height="13.3"/>
+				<rect x="70" y="40" fill="#FFFFFF" width="60" height="13.3"/>
+				<polygon fill="#FFFFFF" points="41.7,26.7 41.7,0 28.3,0 28.3,26.7 0,26.7 0,40 28.3,40 28.3,66.7 0,66.7 0,80 130,80 130,66.7 
+					41.7,66.7 41.7,40 70,40 70,26.7 				"/>
+			</g>
+		</g>
+	</g>
+	<g id="Row_1">
+	</g>
+</g>
+</svg>

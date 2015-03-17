@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 130 120" enable-background="new 0 0 130 120" xml:space="preserve">
+<g id="Infos">
+	<rect id="BG" x="-1100" y="-1020" fill="#D8D8D8" width="2180" height="1700"/>
+</g>
+<g id="Others">
+</g>
+<g id="Europe">
+	<g id="Row_5">
+	</g>
+	<g id="Row_4">
+		<g>
+			<rect y="0" fill="#FFFFFF" width="130" height="39"/>
+			<rect y="39" fill="#2A66B7" width="130" height="42"/>
+			<rect y="81" fill="#DC4437" width="130" height="39"/>
+			<g>
+				<defs>
+					<path id="SVGID_1_" d="M45.3,11C32.2,11.8,31,17.6,31,17.6v4.9c0,0-0.1,22.6,0.4,24.8c0.5,2.2,10.6,11.9,17,12.1
+						c6.4,0.2,16.5-9.8,17-12.1c0.5-2.2,0.4-24.8,0.4-24.8v-4.9c0,0-1.2-5.8-14.3-6.6H45.3z"/>
+				</defs>
+				<use xlink:href="#SVGID_1_"  overflow="visible" fill="#2A66B7"/>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  overflow="visible"/>
+				</clipPath>
+				<path clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-miterlimit="10" d="M48.5,16.2"/>
+				<path clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-miterlimit="10" d="M48.5,42.3"/>
+				<path clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-miterlimit="10" d="M40.3,27.7"/>
+				<path clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-miterlimit="10" d="M56.7,27.7"/>
+				<polygon clip-path="url(#SVGID_2_)" fill="#FFFFFF" points="72.3,51 48.5,62.9 24.7,51 48.5,28.8 				"/>
+			</g>
+		</g>
+	</g>
+	<g id="Row_3">
+	</g>
+	<g id="Row_2">
+	</g>
+	<g id="Row_1">
+	</g>
+</g>
+</svg>
